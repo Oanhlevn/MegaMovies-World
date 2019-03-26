@@ -1,3 +1,5 @@
+Link to the deployed site: https://affectionate-panini-20cd9a.netlify.com/#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
